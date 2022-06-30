@@ -1,5 +1,33 @@
 body {
     width: 80%;
-    background-color: bisque;
+    /* background-color: bisque; */
     margin: auto;
+    color: blue;
+}
+
+.container {
+    background-color: white;
+    margin: 0;
+    padding: 10px;
+}
+
+p {
+    color: red;
+}
+
+
+a:hover {
+    color: green;
+    font-size: 30px;
+}
+
+a:link {
+    background-color: rgb(182, 182, 199);
+    text-decoration: none;
+    font-size: 20px;
+}
+
+a:visited {
+    background-color: white;
+    font-size: 10px;
 }
