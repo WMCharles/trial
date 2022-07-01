@@ -3,10 +3,11 @@ body {
     /* background-color: bisque; */
     margin: auto;
     color: blue;
+    background-color: rgb(245, 225, 225);
 }
 
 .container {
-    background-color: white;
+    /* background-color: white; */
     margin: 0;
     padding: 10px;
 }
